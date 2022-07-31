@@ -1,2 +1,2 @@
 # Week-4
-Task1(Arm joints design and Servo motor)Task2(Knee joints design and Bearing)
+Task1(Knee joints design and Bearing)Task2(Arm joints design and Servo motor)
